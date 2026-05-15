@@ -1,0 +1,2 @@
+rootProject.name = 'devmobilev280'
+include ':app'
